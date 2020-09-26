@@ -1,4 +1,4 @@
-### Avnish Choudhary
+# Avnish Choudhary
 
 I am dedicated, hardworking and proactive professional with 5+ years of experience in IT industry. I have a hands-on experience in Java, AWS, Python, Web Development, GoLang, Angular and VueJs. I have successfully completed my Master of Science in Computing from Griffith College Dublin.
 
